@@ -20,17 +20,17 @@ const About = () => {
         <div>
           <div>
             <img
-              src="https://res.cloudinary.com/dkkfqldh3/image/upload/v1659172760/avatars/IMG_20220304_161033_xireig.jpg"
+              src="https://res.cloudinary.com/dflom5wux/image/upload/v1683989795/avatars/nqqvfclpzhrlbafe1asl.jpg"
               alt="Creator"
               className="imgset"
             />
-            <Typography>Jainish Parmar</Typography>
+            <Typography>Jaydev kalariya</Typography>
             <Button onClick={visitInstagram} color="primary">
               Visit Instagram
             </Button>
             <span>
-              This is a sample wesbite made by Jainish parmar. As a Project of
-              MERN stack.....
+              This is a sample wesbite made by jaydev kalariya. As a Project of
+              design engineering.
             </span>
           </div>
           <div className="aboutSectionContainer2">
